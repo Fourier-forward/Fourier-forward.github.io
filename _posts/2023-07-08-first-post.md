@@ -15,13 +15,9 @@ mermaid: true
 ---
 
 # 感谢关注～ 
-记录一下第一篇博客。猜猜我是谁？2
+记录一下第一篇博客。猜猜我是谁？
 
-这里可以放代码片段噢～
-```c++
-//代码片段
-int main(){
-  hello world;
-}
-```
-![image-wukong](/assets/blog_res/2021-03-30-hello-world.assets/wukong.jpg)
+终于把这个博客主页搞定了，记录一下刚吃的🥚灌饼和楼下🐱🐱。
+![image-bing](/assets/blog_res/2021-03-30-hello-world.assets/bing.jpg) ![image-wukong](/assets/blog_res/2021-03-30-hello-world.assets/wukong.jpg)
+
+![image-cat](/assets/blog_res/2021-03-30-hello-world.assets/cat.jpg)
