@@ -5,8 +5,8 @@ order: 4
 ---
 - ### Hi there 👋, I'm Contin!
 
-  - 🏫  Mechanical Engineering, Shanghai Jiao Tong University.
-  - 💻  I work on MATLAB / Python /.
+  - 🏫  <a href="https://me.sjtu.edu.cn" title="Mechanical Engineering, Shanghai Jiao Tong University." target="_blank">Mechanical Engineering, Shanghai Jiao Tong University.</a>
+  - 💻  I work on MATLAB / Python.
 
 
 
