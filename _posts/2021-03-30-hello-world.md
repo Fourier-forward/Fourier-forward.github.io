@@ -16,9 +16,8 @@ mermaid: true
 # 感谢关注～ 
 记录一下第一篇博客。猜猜我是谁？1
 
-<a href="https://www.baidu.com/">百度</a>
+<a href="https://me.sjtu.edu.cn" title="学院主页" target="_blank">学院主页</a>
 
-https://me.sjtu.edu.cn/
 
 这里可以放代码片段噢～
 ```c++
