@@ -2,7 +2,7 @@
 title: 我的第一篇博文
 date: 2022-07-08 10:34:00 +0800
 categories: [随笔]
-tags: [生活][干饭]
+tags: [干饭]
 pin: true
 author: Jimmy
 
