@@ -16,6 +16,8 @@ mermaid: true
 # 感谢关注～ 
 记录一下第一篇博客。猜猜我是谁？1
 
+<a href="https://www.baidu.com/">百度</a>
+
 https://me.sjtu.edu.cn/
 
 这里可以放代码片段噢～
@@ -28,14 +30,4 @@ int main(){
 ![image-wukong](/assets/blog_res/2021-03-30-hello-world.assets/wukong.jpg)
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <a href="https://www.baidu.com/">百度</a>
-</body>
-</html>
+
