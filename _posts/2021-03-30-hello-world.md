@@ -27,3 +27,4 @@ int main(){
   hello world;
 }
 ```
+![image-wukong](/assets/blog_res/2021-03-30-hello-world.assets/wukong.png)
