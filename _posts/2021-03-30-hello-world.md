@@ -28,7 +28,6 @@ int main(){
 ![image-wukong](/assets/blog_res/2021-03-30-hello-world.assets/wukong.jpg)
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
