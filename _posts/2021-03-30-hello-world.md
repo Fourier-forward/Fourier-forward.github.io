@@ -8,7 +8,6 @@ author: Jimmy
 
 toc: true
 comments: true
-typora-root-url: ../../Fourier-forward.github.io
 math: false
 mermaid: true
 
