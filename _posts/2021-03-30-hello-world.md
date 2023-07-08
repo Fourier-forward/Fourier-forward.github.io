@@ -26,3 +26,13 @@ int main(){
 }
 ```
 ![image-wukong](/assets/blog_res/2021-03-30-hello-world.assets/wukong.jpg)
+
+
+<style>
+.right{
+    position:absolute;
+    right:10px;
+    top:10px;
+}
+</style>
+<a href="https://www.baidu.com" class="right" target="_blank">百度</a>
